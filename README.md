@@ -3,7 +3,7 @@
 
 **Overview**
 -
-This project involves developing a mobile and web application for Sharoma Indigenous Corporation (SHIC), a fully Aboriginal-owned non-profit organisation also operating as the Sport, Culture, and Leadership Academy (SCALA). The main goal of the app is to improve data integration, streamline registrations, and provide easier access to programs and information for both Indigenous and commercial participants.
+This project is part of my university coursework, where I developed a mobile and web application for Sharoma Indigenous Corporation (SHIC), a fully Aboriginal-owned non-profit organisation also operating as the Sport, Culture, and Leadership Academy (SCALA). The main goal of the app is to improve data integration, streamline registrations, and provide easier access to programs and information for both Indigenous and commercial participants.
 
 The app was developed using Mendix, a low-code platform, which allowed rapid development, easy adjustments, and scalable functionality without extensive coding. Using Mendix, I was able to design a user-friendly interface and implement features that support SHIC’s operational goals.
 
